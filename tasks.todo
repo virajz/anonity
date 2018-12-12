@@ -1,0 +1,20 @@
+Website:
+ ✔ Send confirmation mail for account activation @done (16-10-14 15:46)
+ ✔ Show users liked stories @done (16-10-14 19:07)
+ ✔ Soft deletes on users and stories @done (16-10-14 15:46)
+ ✔ Disable access to vote and write story for inactive users @done (16-10-14 15:46)
+ ✔ Show who liked story on stories page. (viraj, jay, akash and 3 others) @done (16-10-14 19:32)
+ ✔ Set CRON jobs for daily registered users and daily published stories @done (16-12-12 23:45)
+ ☐ Set for most popular this week (optional)
+ ☐ Social media Integration (optional)
+ ☐ Search
+ ☐ Not found pages
+
+UI:
+ ☐ Change theme
+ ☐ Home page should have site description
+ ✔ FAQs on homepage @done (16-10-14 21:16)
+ ✔ Like button instead of Number button @done (16-12-12 23:46)
+
+FAQ:
+ ✔ Moderation @done (16-10-14 21:16)
